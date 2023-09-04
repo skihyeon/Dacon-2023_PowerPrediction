@@ -34,7 +34,7 @@ The project uses the following data sources:
 - Models are trained using XGBoost, aiming to minimize the weighted mean squared error.
 
 ## Folder Structure
-'''
+```
 ├── data/
 │   ├── train.csv
 │   ├── test.csv
@@ -48,21 +48,21 @@ The project uses the following data sources:
 │   ├── models_version_number/
 ├── README.md
 ├── script.py
-'''
+```
 
 ## Script.py
-'''
 To run the project pipeline, you can use the following command-line options:
-
+```
 - `-p` or `--preprocess`: Run data preprocessing.
 - `-t` or `--train`: Run model training.
 - `-i` or `--inference`: Run model inference.
 - `-b` or `--bayesian`: Run Bayesian optimization.
 - `proj_name`: Optional project name to be used for saving or loading models.
-'''
-'''
-Example usage: python script.py -p -t -i My_Project
-'''
+```
+Example usage:
+```
+python script.py -p -t -i My_Project
+```
 ## Evaluation Metrics
 The project uses the following evaluation metrics:
 - SMAPE (Symmetric Mean Absolute Percentage Error)
