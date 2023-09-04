@@ -20,6 +20,7 @@ The project uses the following data sources:
 - `train.csv`: Training data
 - `test.csv`: Test data
 - `building_info.csv`: Building information data
+- if you want to get datas, please visit (https://dacon.io/competitions/official/236125/overview/description)
 
 ## Data Preprocessing
 - Load and preprocess training and test data.
