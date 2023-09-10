@@ -6,8 +6,8 @@ The goal of this competition, hosted by the Korea Energy Agency, is to discover 
 
 # Competition Participation
 - Rank
-  - public : 37/2020
-  - private : 44/2020
+  - public : 37/2020 (top 4%)
+  - private : 44/2020 (top 4%)
 
 ## Tech Stack
 - Python
